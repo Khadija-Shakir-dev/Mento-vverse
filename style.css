@@ -113,6 +113,7 @@
   display:none;
   font-size:22px;
   cursor:pointer;
+ color:white;
 }
 
 /* ================= SIDEBAR ================= */
@@ -166,7 +167,7 @@
   }
 
   .menu-btn{
-    display:block !important;
+    display:block ;
   color: white;
   }
 }
@@ -362,4 +363,5 @@
             }
 
         }
+
 
